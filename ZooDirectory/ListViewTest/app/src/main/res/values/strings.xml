@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ListViewTest</string>
+
+    <string-array name="pokemon_name">
+        <item>Bulbasaur</item>
+        <item>Charmander</item>
+        <item>Squirtle</item>
+        <item>Pikachu</item>
+        <item>Eevee</item>
+    </string-array>
+
+    <array name="pokemon_pic">
+        <item>@drawable/bulbasaur</item>
+        <item>@drawable/charmander</item>
+        <item>@drawable/squirtle</item>
+        <item>@drawable/pikachu</item>
+        <item>@drawable/eevee</item>
+    </array>
+
+    <string-array name="pokemon_desc">
+        <item>Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun\'s rays, the seed grows progressively larger.</item>
+        <item>The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.</item>
+        <item>Squirtle\'s shell is not merely used for protection. The shell\'s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.</item>
+        <item>Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it\'s evidence that this Pokémon mistook the intensity of its charge.</item>
+        <item>Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.</item>
+    </string-array>
+
+</resources>
